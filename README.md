@@ -1,9 +1,12 @@
-
-
--👋 Hola, soy @MrCiscoST19 o tambien conocido como Cesar David Sanchez Trejo
--👀 Me interesa el desarrollo web, la programación y explorar nuevas tecnologías.
-🌱 Actualmente estoy aprendiendo Java, CSS, HTML, JavaScript y Vue.js.
-💞️ Estoy buscando colaborar en proyectos sencillos para mejorar mis habilidades.
-📫 Cómo contactarme:
-😄 Pronombres: Cesar Sanchez
-⚡ Dato curioso: Me encanta resolver problemas y aprender algo nuevo cada día.
+- 👋 Hola, soy @MrCiscoST19, también conocido como César David Sánchez Trejo.  
+- 👀 Me apasiona el desarrollo web, la programación y el aprendizaje continuo de nuevas tecnologías.  
+- 💞️ Busco colaborar en proyectos que impulsen mi crecimiento profesional como desarrollador.  
+- 📫 Cómo contactarme: [Agrega tu correo electrónico o enlace profesional aquí].  
+- 😄 Pronombres: Él.  
+- ⚡ Dato curioso: Siempre estoy dispuesto a enfrentar nuevos desafíos para encontrar soluciones creativas.
+- 🌱 Actualmente estoy fortaleciendo mis habilidades en:  
+  - ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=java&logoColor=white)  
+  - ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white)  
+  - ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white)  
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  - ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=flat&logo=vue.js&logoColor=white)  
